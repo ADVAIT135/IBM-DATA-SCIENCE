@@ -1,0 +1,1 @@
+This sub repository consists of all the assignments for the module Databases and SQL for Data Science with Python
