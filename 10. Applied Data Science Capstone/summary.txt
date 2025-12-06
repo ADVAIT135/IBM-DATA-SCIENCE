@@ -1,0 +1,1 @@
+This sub repository consists of all the files and assignments for Applied Data Science Capstone
