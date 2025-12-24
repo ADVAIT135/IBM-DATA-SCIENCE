@@ -182,9 +182,8 @@ Consider adding:
 
 ## License
 
-Add a `LICENSE` file to define the repository license. If you don't have one yet, consider MIT or Apache-2.0 for permissive licensing. Example placeholder:
 ```
-This project is provided under the terms of the MIT License. See the LICENSE file for details.
+This project is provided under the terms of the GPL-3.0 license. See the LICENSE file for details.
 ```
 
 ---
