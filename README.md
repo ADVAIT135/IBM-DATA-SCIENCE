@@ -1,5 +1,9 @@
 # IBM-DATA-SCIENCE
 
+<a href="https://www.credly.com/go/094TfJ1FhcfjYof2Tyy0GQ">
+  <img src="./ibm-data-science-professional-certificate-v3.png" alt="Certificate" width="250" height="250">
+</a>
+
 A collection of notebooks, projects, examples, and resources for learning and applying data science concepts inspired by IBM's Data Science coursework and practical exercises. This repository is organized to make it easy to follow hands-on tutorials, reproduce experiments, and build small end-to-end projects.
 
 > Owner: [ADVAIT135](https://github.com/ADVAIT135)
